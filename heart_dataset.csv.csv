@@ -1,0 +1,16 @@
+age,trestbps,chol,fbs,restecg,thalch,exang,oldpeak,slope,ca,thal,sex_Female,sex_Male,cp_asymptomatic,cp_atypical angina,cp_non-anginal,cp_typical angina
+58,130,220,1,normal,150,FALSE,1.4,flat,0,fixed defect,0,1,0,0,0,1
+67,160,276,0,lv hypertrophy,108,TRUE,1.5,flat,3,normal,0,1,1,0,0,0
+42,120,230,0,normal,170,FALSE,1,upsloping,0,reversable defect,1,0,0,0,1,0
+50,130,210,0,lv hypertrophy,158,FALSE,0.8,flat,0,normal,0,1,0,0,1,0
+45,114,230,0,normal,165,FALSE,1.1,downsloping,0,normal,1,0,0,1,0,0
+62,140,268,0,lv hypertrophy,160,FALSE,3.6,downsloping,2,normal,0,1,1,0,0,0
+57,120,354,0,normal,163,TRUE,0.6,upsloping,0,normal,1,0,1,0,0,0
+63,130,254,0,lv hypertrophy,147,FALSE,1.4,flat,1,reversable defect,0,1,1,0,0,0
+53,140,203,1,lv hypertrophy,155,TRUE,3.1,downsloping,0,reversable defect,0,1,1,0,0,0
+59,135,234,0,normal,161,FALSE,0.5,flat,0,reversable defect,1,0,0,0,0,1
+44,120,263,0,normal,173,FALSE,0,upsloping,0,reversable defect,0,1,0,1,0,0
+56,140,294,0,lv hypertrophy,153,FALSE,1.3,flat,0,normal,1,0,1,0,0,0
+51,140,308,0,lv hypertrophy,142,FALSE,1.5,upsloping,1,normal,0,1,1,0,0,0
+71,112,149,0,normal,125,TRUE,1.6,flat,0,normal,0,1,1,0,0,0
+54,122,286,0,lv hypertrophy,116,TRUE,3.2,flat,2,normal,0,1,1,0,0,0
